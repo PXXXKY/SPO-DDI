@@ -1,0 +1,22 @@
+SPO-DDI RESEARCH CODE NOTICE
+
+Copyright (c) 2026 SPO-DDI authors.
+
+This repository is made publicly available for inspection and reproducibility
+of the accompanying research. No license is granted here for files derived
+from third-party research code unless the applicable upstream license
+explicitly permits such use.
+
+Original SPO-DDI contributions may be used for non-commercial academic
+research with attribution to the accompanying paper and this repository.
+Redistribution, relicensing, commercial use, and use of third-party-derived
+files require permission from the relevant copyright holders.
+
+This software is provided "as is", without warranty of any kind, express or
+implied, including but not limited to warranties of merchantability, fitness
+for a particular purpose, and noninfringement. In no event shall the authors
+or copyright holders be liable for any claim, damages, or other liability
+arising from the software or its use.
+
+See docs/THIRD_PARTY.md for provenance and upstream notices.
+

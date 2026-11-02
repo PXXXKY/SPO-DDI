@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the SPO-DDI paper and this repository."
+title: "SPO-DDI: Pair-Adaptive Molecular Fusion and Ordinal-Aware Learning for Drug-Drug Interaction Severity Prediction"
+type: software
+authors:
+  - name: "SPO-DDI authors"
+version: 1.0.0
+date-released: 2026-11-02
+repository-code: "https://github.com/PXXXKY/SPO-DDI"
+keywords:
+  - drug-drug interaction
+  - severity prediction
+  - molecular representation learning
+  - ordinal classification
+  - graph neural network
+license: LicenseRef-SPO-DDI-Research
+

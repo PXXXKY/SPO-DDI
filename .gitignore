@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environments and editors
+.venv/
+venv/
+env/
+.idea/
+.vscode/
+*.swp
+
+# Experiment outputs
+artifacts/
+checkpoints*/
+results_*/
+result*.txt
+logs/
+runs/
+wandb/
+*.log
+*.pid
+*.done
+
+# Model and feature artifacts
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.npz
+*.npy
+*.pkl
+
+# Local datasets (keep source scripts and documentation)
+src/trimnet/data/ddinter/
+src/trimnet/data/*/0/
+src/trimnet/data/*/1/
+src/trimnet/data/*/2/
+src/trimnet/data/*/3/
+src/trimnet/data/*/4/
+
+# Archives and platform files
+*.zip
+*.tar
+*.tar.gz
+*.7z
+.DS_Store
+Thumbs.db
+
